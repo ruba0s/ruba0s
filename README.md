@@ -1,7 +1,9 @@
 hello, i'm ruba!
 
 i'm a cs student @ `ut dallas`
+
 incoming swe intern @ `fidelity`, previous @ `infosys`
+
 currently an RA researching 5G network security
 
 ---
