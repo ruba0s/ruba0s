@@ -1,4 +1,13 @@
-## Hi there 👋
+hello, i'm ruba!
+
+i'm a cs student @ `ut dallas`
+incoming swe intern @ `fidelity`, previous @ `infosys`
+currently an RA researching 5G network security
+
+---
+
+- 🧶 when i'm not coding, you'll find me crocheting or reading
+- 📫 reach me at [ruba.osman@utdallas.edu](mailto:ruba.osman@utdallas.edu)
 
 <!--
 **ruba0s/ruba0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
